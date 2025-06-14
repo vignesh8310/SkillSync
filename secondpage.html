@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta info for character encoding and responsiveness -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Page title shown on the browser tab -->
+  <title>Skill Sync - Track Skills</title>
+
+  <!-- Linking external CSS stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- Header section of the page -->
+  <header class="header">
+    <h1>SKILL SYNC </h1>
+  </header>
+
+  <!-- Main content area -->
+  <main class="main">
+
+    <!-- Button to trigger skill addition -->
+    <button class="add-skill-btn" onclick="addSkill()">Add Skill</button>
+
+    <!-- Container where all skill boxes will be injected dynamically via JS -->
+    <div id="skills-container">
+      <!-- Skill boxes will be added here dynamically -->
+    </div>
+  </main>
+
+  <!-- Linking external JavaScript file -->
+  <script src="tracker.js"></script>
+</body>
+</html>
