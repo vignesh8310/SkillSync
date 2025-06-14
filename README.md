@@ -25,10 +25,17 @@ Skill Sync is a personal dashboard that helps users keep track of the skills the
 ---
 
 ## 📁 Project Structure
+
 Skill-Sync/
+
 ├── index.html # Homepage
+
 ├── tracker.html # Skill tracking dashboard
+
 ├── style.css # All the styling goodness
+
 ├── home.js # Scripts for homepage interactions
+
 ├── tracker.js # Handles skill/subskill functionality
+
 └── images/ # Icons and visuals used in the UI
