@@ -15,7 +15,7 @@ Check it out live: https://skillsync10.netlify.app/
 
 - **Add & Track Skills**: Organize your goals into skills and subskills.
 - **Progress Visualization**: See your growth with smooth, responsive progress bars.
-- **Edit & Delete**: Flexibility to update or remove anything, anytime.
+- **Add & Delete**: Flexibility to add or remove anything, anytime.
 - **Responsive Design**: Clean and accessible UI across devices.
 - **Data Persistence**: Progress is saved using localStorage — no backend required.
 
