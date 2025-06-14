@@ -5,6 +5,12 @@ Skill Sync is a personal dashboard that helps users keep track of the skills the
 
 ---
 
+## 🚀 Demo
+
+Check it out live: https://skillsync10.netlify.app/
+
+---
+
 ## 🚀 Features
 
 - **Add & Track Skills**: Organize your goals into skills and subskills.
